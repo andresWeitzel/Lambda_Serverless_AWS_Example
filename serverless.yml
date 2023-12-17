@@ -1,0 +1,16 @@
+# serverless.yml
+service: lambda-serverless-aws
+ 
+provider:
+  name: aws
+  runs-on: ubuntu-latest
+  region: us-east-2
+  runtime: nodejs20.x
+  memorySize: 512 # optional, in MB, default is 1024
+  timeout: 10 # optional, in seconds, default is 6
+
+ 
+functions:
+  index:
+    handler: src/index.handler # required, handler set in AWS Lambda
+    name: lambdaServerlessTest
