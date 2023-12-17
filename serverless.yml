@@ -3,7 +3,6 @@ service: lambda-serverless-aws
  
 provider:
   name: aws
-  runs-on: ubuntu-latest
   region: us-east-2
   runtime: nodejs20.x
   memorySize: 512 # optional, in MB, default is 1024
