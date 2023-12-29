@@ -1,3 +1,5 @@
+![Index app](https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png)
+
 # Lambda_Serverless_AWS
 Creating and deploying a lambda function with serverless in AWS
 
