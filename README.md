@@ -1,13 +1,12 @@
 <div align="center">
 <img src="./doc/assets/lambda.png" alt="Lambda Serverless AWS" width="100%" />
 <div align="right">
-<img width="16" height="16" src="./doc/assets/icons/devops/png/aws.png" alt="AWS" />
-<img width="16" height="16" src="./doc/assets/icons/aws/png/lambda.png" alt="Lambda" />
-<img width="16" height="16" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" alt="Node.js" />
-<img width="16" height="16" src="./doc/assets/icons/devops/png/npm.png" alt="npm" />
-<img width="16" height="16" src="./doc/assets/icons/devops/png/github.png" alt="GitHub" />
-<img width="16" height="16" src="./doc/assets/icons/devops/png/git.png" alt="Git" />
-<img width="16" height="16" src="./doc/assets/icons/devops/png/vsc.png" alt="VS Code" />
+<img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" alt="AWS" />
+<img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" alt="Lambda" />
+<img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" alt="Postman" />
+<img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" alt="Git" />
+<img width="25" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" alt="Parameter Store" />
+<img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" alt="Node.js" />
 </div>
 </div>
 
