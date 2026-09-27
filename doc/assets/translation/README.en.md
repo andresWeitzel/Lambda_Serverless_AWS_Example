@@ -1,12 +1,12 @@
 <div align="center">
 <img src="../lambda.png" alt="Lambda Serverless AWS" width="100%" />
 <div align="right">
-<img width="25" height="25" src="../icons/devops/png/aws.png" alt="AWS" />
-<img width="25" height="25" src="../icons/aws/png/lambda.png" alt="Lambda" />
-<img width="25" height="25" src="../icons/devops/png/postman.png" alt="Postman" />
-<img width="25" height="25" src="../icons/devops/png/git.png" alt="Git" />
-<img width="25" height="25" src="../icons/aws/png/parameter-store.png" alt="Parameter Store" />
-<img width="25" height="25" src="../icons/backend/javascript-typescript/png/nodejs.png" alt="Node.js" />
+<img width="16" height="16" src="../icons/devops/png/aws.png" alt="AWS" />
+<img width="16" height="16" src="../icons/aws/png/lambda.png" alt="Lambda" />
+<img width="16" height="16" src="../icons/devops/png/postman.png" alt="Postman" />
+<img width="16" height="16" src="../icons/devops/png/git.png" alt="Git" />
+<img width="16" height="16" src="../icons/aws/png/parameter-store.png" alt="Parameter Store" />
+<img width="16" height="16" src="../icons/backend/javascript-typescript/png/nodejs.png" alt="Node.js" />
 </div>
 </div>
 
